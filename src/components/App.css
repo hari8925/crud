@@ -1,0 +1,10 @@
+.back {
+  /* position: absolute;
+  left: 50%;
+  top: 38%;
+  transform: translate(-50%, -50%); */
+  background-color: #f4e869;
+  display: grid;
+  align-content: center;
+  height: 100vh;
+}
